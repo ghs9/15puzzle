@@ -22,7 +22,8 @@
  * [maxFringe] is the maximum size of the fringe at any point during the search (output 0 if depth == -1).
  * Example: 
    * java FifteenProblem "123456789ABC DFE" BFS 
-         3, 54, 17, 37
+       * 3, 54, 17, 37
+4) To print out path, copy and paste artifact at bottom of source code onto the end of any search algorithm.
 
 ### Demonstrates the following search algorithms:
 
